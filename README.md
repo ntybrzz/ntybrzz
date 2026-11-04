@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Iwilllovewhores">
+<a href="https://github.com/ntybrzz">
 <img src="https://img.shields.io/badge/GitHub-06142E?style=for-the-badge&logo=github&logoColor=60A5FA"/>
 </a>
 <a href="mailto:SEU_EMAIL">
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Iwilllovewhores&style=for-the-badge&color=123B70&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ntybrzz&style=for-the-badge&color=123B70&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -72,16 +72,16 @@ I'm constantly exploring new technologies and improving my programming skills.
 
 ## FEATURED PROJECTS
 
-<a href="https://github.com/Iwilllovewhores?tab=repositories">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Iwilllovewhores&repo=SEU_REPOSITORIO_1&theme=transparent&hide_border=true&bg_color=06142E&title_color=60A5FA&text_color=C7D9F2&icon_color=3B82F6"/>
+<a href="https://github.com/ntybrzz?tab=repositories">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ntybrzz&repo=[SEU_REPOSITORIO_1](https://github.com/ntybrzz/Advanced-Ticket-Bot)&theme=transparent&hide_border=true&bg_color=06142E&title_color=60A5FA&text_color=C7D9F2&icon_color=3B82F6"/>
 </a>
-<a href="https://github.com/Iwilllovewhores?tab=repositories">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Iwilllovewhores&repo=SEU_REPOSITORIO_2&theme=transparent&hide_border=true&bg_color=06142E&title_color=60A5FA&text_color=C7D9F2&icon_color=3B82F6"/>
+<a href="https://github.com/ntybrzz?tab=repositories">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ntybrzz&repo=[SEU_REPOSITORIO_2](https://github.com/ntybrzz/number-secret)&theme=transparent&hide_border=true&bg_color=06142E&title_color=60A5FA&text_color=C7D9F2&icon_color=3B82F6"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Iwilllovewhores?tab=repositories">
+<a href="https://github.com/ntybrzz?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-123B70?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
@@ -93,13 +93,13 @@ I'm constantly exploring new technologies and improving my programming skills.
 
 ## GITHUB STATISTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iwilllovewhores&show_icons=true&hide_border=true&bg_color=06142E&title_color=60A5FA&icon_color=3B82F6&text_color=C7D9F2&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ntybrzz&show_icons=true&hide_border=true&bg_color=06142E&title_color=60A5FA&icon_color=3B82F6&text_color=C7D9F2&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwilllovewhores&layout=compact&hide_border=true&bg_color=06142E&title_color=60A5FA&text_color=C7D9F2"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntybrzz&layout=compact&hide_border=true&bg_color=06142E&title_color=60A5FA&text_color=C7D9F2"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Iwilllovewhores&hide_border=true&background=06142E&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C7D9F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AA7CF"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ntybrzz&hide_border=true&background=06142E&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C7D9F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AA7CF"/>
 
 </div>
 
@@ -109,7 +109,7 @@ I'm constantly exploring new technologies and improving my programming skills.
 
 ## CONTRIBUTION ACTIVITY
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iwilllovewhores&bg_color=06142E&color=8BB9FF&line=2563EB&point=FFFFFF&area=true&area_color=123B70&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ntybrzz&bg_color=06142E&color=8BB9FF&line=2563EB&point=FFFFFF&area=true&area_color=123B70&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/>
 
 </div>
 
