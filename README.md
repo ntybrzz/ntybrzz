@@ -1,79 +1,161 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=200&section=header&text=João&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Back%20End&descSize=22&descAlignY=60&fontAlign=50"/>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Builder-031cfc?style=flat-square&logo=openai&logoColor=fff" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:06135c,100:031cfc&height=220&section=header&text=JO%C3%83O&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=BACK-END%20DEVELOPER&descSize=18&descColor=8da8ff&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=031cfc&size=32&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Back+End+Developer;Javascript+Specialist;Open+Source+and+Building" />
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Iwilllovewhores" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=031cfc" />
-  </a>
-  <a href="https://www.linkedin.com/in/Iwilllovewhores" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=031cfc" />
-  </a>
-  <a href="mailto:Iwilllovewhores@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=gmail&logoColor=000000" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=4169FF&center=true&vCenter=true&width=700&lines=Initializing+developer+environment...;Back-End+Developer;JavaScript+%7C+Node.js+%7C+TypeScript;Building+solutions+through+code." />
 
----
+<br/>
 
-## About Me
+<a href="https://github.com/Iwilllovewhores">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=4169FF"/>
+</a>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=4169FF"/>
+</a>
 
-- Back-End Developer
----
-
-## Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mongodb,&theme=dark" />
 </div>
 
 ---
 
-## Achievements
+## `~/about-me`
+
+```bash
+┌──(joao㉿github)-[~]
+└─$ whoami
+
+João
+Back-End Developer
+
+┌──(joao㉿github)-[~]
+└─$ cat about.txt
+
+I'm a developer interested in building software,
+automation systems and digital solutions.
+
+Currently focused on:
+  > Back-End Development
+  > JavaScript Ecosystem
+  > Node.js Applications
+  > Discord Bot Development
+  > Database Management
+
+┌──(joao㉿github)-[~]
+└─$ echo $STATUS
+
+Always learning. Always building.
+```
+
+---
+
+## `~/tech-stack`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=171ntw&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+
+**[ LANGUAGES ]**
+
+<img src="https://skillicons.dev/icons?i=js,ts&theme=dark"/>
+
+<br/>
+
+**[ BACK-END DEVELOPMENT ]**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+<br/>
+
+**[ DATABASES ]**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
+<br/>
+
+**[ TOOLS & ENVIRONMENT ]**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+
 </div>
 
 ---
 
-## Insights
+## `~/projects`
+
+```bash
+┌──(joao㉿github)-[~/projects]
+└─$ ls -la
+
+drwxr-xr-x  discord-bots/
+drwxr-xr-x  backend-projects/
+drwxr-xr-x  open-source/
+```
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iwilllovewhores&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iwilllovewhores&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iwilllovewhores&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iwilllovewhores&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iwilllovewhores&theme=tokyonight&utcOffset=8" />
+
+<a href="https://github.com/Iwilllovewhores?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-050505?style=for-the-badge&logo=github&logoColor=4169FF"/>
+</a>
+
 </div>
 
 ---
 
-## Profile Views
+## `~/github-analytics`
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@Iwilllovewhores?theme=moebooru" alt="profile views" />
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iwilllovewhores&theme=github_dark"/>
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Iwilllovewhores&show_icons=true&hide_border=true&bg_color=050505&title_color=4169FF&icon_color=4169FF&text_color=ffffff&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwilllovewhores&layout=compact&hide_border=true&bg_color=050505&title_color=4169FF&text_color=ffffff"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=Iwilllovewhores&theme=dark&hide_border=true&background=050505&ring=031cfc&fire=4169FF&currStreakLabel=4169FF"/>
+
 </div>
 
 ---
 
+## `~/activity`
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=120&section=footer"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iwilllovewhores&bg_color=050505&color=4169FF&line=031cfc&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
+---
 
+## `~/currently-working`
+
+```bash
+[+] Improving JavaScript skills
+[+] Developing Back-End applications
+[+] Building Discord bots
+[+] Exploring databases and architecture
+[+] Learning something new every day
+
+```
+
+---
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   "Great software starts with curiosity."    │
+│                                              │
+│   SESSION STATUS: ACTIVE                     │
+│   SYSTEM: JOAO.DEV                            │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031cfc,100:000000&height=120&section=footer"/>
+
+</div>
