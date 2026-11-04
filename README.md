@@ -36,23 +36,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iwilllovewhores&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=031cfc&icon_color=031cfc&text_color=fff&hide_border=true" style="display: inline-block; vertical-align: top; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwilllovewhores&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=031cfc&text_color=fff&hide_border=true" style="display: inline-block; vertical-align: top;" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iwilllovewhores&theme=tokyonight&hide_border=true&background=0d1117&stroke=031cfc&ring=031cfc&fire=031cfc&currStreakNum=031cfc&sideNums=031cfc&currStreakLabel=031cfc&sideLabels=031cfc&dates=031cfc" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iwilllovewhores&theme=react-dark&hide_border=true&bg_color=0d1117&line=031cfc&color=031cfc&custom_title=Contribution%20Graph&area=true" />
-</div>
-
----
-
 ## Achievements
 
 <div align="center">
